@@ -50,7 +50,7 @@ name = input("Ingresa tu nombre\n")
 age = input("Ingresa tu edad\n")
 heigth = input("Ingresa tu estatura\n")
 
-print(f"Hola me llamo{name} y tengo {age} años, mido {heigth} metros")
+print(f"Hola me llamo {name} y tengo {age} años, mido {heigth} metros")
 
 print("\nEjercicio 5: Números")
 print("1. Crea una variable con el número PI (sin asignar una variable)")
